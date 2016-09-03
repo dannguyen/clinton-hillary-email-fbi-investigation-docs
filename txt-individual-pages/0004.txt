@@ -1,0 +1,62 @@
+                                                                                                                                         bl
+                                                                                                                                         b3
+                                                                                                                                         b7E
+
+(U//FOUO) Between the fall of 2008 and January 2009, Pagliano requisitioned the original
+hardware for the second e-mail server from Clinton's presidential campaign headquarters in
+Arlington, VA.33 In addition to hardware acquired from Clinton's presidential campaign,
+Pagliano and Cooper8 purchased additional necessary equipment through commercial
+vendors.34,35,36,37 In March 2009, after Pagliano had acquired all of the server equipment and
+installed the necessary software, he and Cooper met at Clinton's Chappaqua residence to
+physically install the server and related equipment in a server rack in the Clintons'
+basement.11,38,39
+
+(U//FOUO) Once the new server system*1was physically installed and powered on, Pagliano
+began migrating the e-mail data from the Apple Server to the Pagliano-administered server
+system (Pagliano Server).40 Pagliano believed he “popped out” all of the e-mail from the Apple
+Server and that no e-mail content should have remained on the Apple Server once the migration
+took place.41 Pagliano stated to the FBT that he only transferred clintonemail.com e-mail
+accounts for Abedin anq                    'rom the Apple Server and said he was unaware of and                                          b6
+                                                                                                                                         b7C
+did not transfer an e-mail account for Clinton.^42 However, Cooper stated to the FBI that he
+believed Clinton had a clintonemail.com e-mail account on the Apple Server, and that Abedin
+did not have a clintonemail.com account on the Apple Server.43 As the FBI was unable to obtain
+the original Apple Server for a forensic review for reasons explained below, the FBI cannot
+determine which clintonemail.com e-mail accounts were hosted on, and transferred from, the
+Apple Server to the Pagliano Server.
+
+(U//FOUO) After the e-mail account migration was completed. Cooper changed the Mail
+Exchange (MX) recordsk to ensure that delivery of all subsequent e-mail to or from e-mail
+addresses on the presidentclinton.com and clintonemail.com domains would be directed toward
+the new Pagliano Server instead of the Apple Server.44 The Pagliano Server was only used for e-
+mail management, and the FBI's review of the oldest available backup image of this server,
+dated June 24, 2013, did not indicate that any e-mail users' files were stored on the Pagliano
+Server.45
+
+(U//FOU0) In March 2009, following the e-mail migration from the Apple Server to the
+Pagliano Server, the Annie Server was repurposed to serve as a personal computer for household
+                                                                                                                                         b6
+staff.4___________________________ at Clinton's Chappaqua residence, subsequently used the
+                                                                                                                                         b7C
+Apple Server equipment as a workstation.47 In 2014, the data on the Apple computer was
+transferred to an Apple iMac computer, and the hard drive of the old Apple computer, which
+
+8 (LWTOUO) Cooper haq                                                                        and was often responsible for reimbursing   b6
+staff for purchases/expenSES----------------------------------------------------------------                                             b7C
+h (LV/rOL'Q) Pagliano visited Clinton's Chappaqua residence on at least three occasions to work on the server: in March 2009, to
+install the server; in June 2011, to upgrade the equipment; and in January 2012, to fix a hardware issue.
+1(U//FOUO) The Pagliano Server initially consisted of the following equipment: a Dell PowerEdge 2900 server running
+Microsoft Exchange for e-mail hosting and management, a Dell PowerEdge 1950 server running BlackBerry Enterprise Server
+(BES) for the management of BlackBerry devices, a Seagate external hard drive to store backups of the Dell PowerEdge 2900
+server, a Dell switch, a Cisco firewall, and a power supply.
+j (U//FOU0) An e-mail obtained during the FBI investigation from Cooper to Clinton, indicated that in April 2009, Cooper was
+preparing to update Clinton's BlackBerry to “put it on our new system.”
+k (U) An MX record determines which server will handle e-mail delivery for a domain and is necessary for routing e-mail to its
+proper destination.
+
+                                                           Page 4 of 47
+
+                                           SECRET//*                                                                                     bl
+                                                                                                                                         b3
+                                                                                                                                         b7E
+

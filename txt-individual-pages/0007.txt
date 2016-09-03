@@ -1,0 +1,62 @@
+                                                                                                       bl
+                                                                                                       b3
+                                                                                                       b7E
+                                        SECR]                          FORI
+
+(U//EOUO) As part of the PRN Server environment.                    old the FBI that he configured a
+backup device from Connecticut-based company Datto, Inc. (Datto), a Datto SIRIS 2000, to                b6
+take multiple snapshots of the server system daily, with a retention period of 60 days.93 The           b7C
+backup device also made multiple copies of the Pagliano Server between June 24, 2013 and
+December 23, 2013. At the Clintons' request, PRN only intended that the backup device store
+local copies of the backups.95,96 However, in August 2015, Datto informed PRN that, due to a
+technicalc ----oversight,
+                --
+                          the PRN Server was also backing up the server to Datto's secure cloud
+storage/97,98 After this notification, PRN instructed Datto to discontinue the secure cloud
+backups 99,100
+
+(U//FOUO)________stated the Clintons originally requested that e-mail on the PRN Server be              b6
+                                                                                                        b7C
+encrypted such that no one but the users could read the content.101 However, PRN ultimately did
+not configure the e-mail settings this way to allow system administrators to troubleshoot
+problems occurring within user accounts.102
+
+(U//FOUO) PRN utilized an Intrusion Detection System (IDS)/Intrusion Prevention System
+(IPS) called CloudJacket from SECNAP Network Security. The IDS/IPS device implemented
+by PRN had pre-configured settings that blocked or blacklisted certain e-mail traffic identified as
+potentially harmful and provided real-time monitoring, alerting, and incident response
+services.104 105 SECNAP personnel would receive notifications when certain activity on the
+network triggered an alert.106 These notifications were reviewed by SECNAP personnel and, at
+times, additional follow-up was conducted with PRN in order to ascertain whether specific
+activity on the network was normal or anomalous.107 Occasionally, SECNAP would send e-mail
+notifications to|          | prompting him to block certain IP addresses. 108|           described      b6
+                                                                                                        b7C
+these notifications as normal and did not recall any serious security incident or intrusion
+attempt.109 PRN also implemented two firewalls for additional protection of the network.
+           stated that he put two firewalls in place for redundancy in case one went down. no
+
+(U//FOUO) According to the FBI's forensic analysis of the server system, on December 3, 2013,
+Microsoft Exchange was uninstalled on the Pagliano Server.111 The Pagliano Server remained in
+the same server cage at the Equinix datacenter in Secaucus, New Jersey, and a forensic review of
+the server, which was obtained in August 2015 via consent provided by Clinton through
+Williams & Connolly, indicated that it continued to be powered on and off multiple times before
+the FBI obtained it.112 At the time of the FBI's acquisition of the Pagliano Server, Williams &
+Connolly did not advise the US Government (USG) of the existence of the additional equipment
+associated with the Pagliano Server, or that Clinton's clintonemail.com e-mails had been
+migrated to the successor PRN Server remaining at Equinix. The FBI's subsequent investigation
+identified this additional equipment and revealed the e-mail migration. As a result, on October 3,
+2015, the FBI obtained, via consent provided by Clinton through Williams & Connolly, both the
+remaining Pagliano Server equipment and the PRN Server, which had remained operational and
+was hosting Clinton's personal e-mail account until it was disconnected and produced to the
+p g j 113,114,115,116
+
+
+
+
+r (U) The Datto SIRIS 2000 is a device that provides back-up capability and data redundancy.
+
+                                                        Page 7 of 47
+                                                                                                        bl
+                                        SEC                            FOR>                             b3
+                                                                                                        b7E
+

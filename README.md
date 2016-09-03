@@ -22,6 +22,8 @@ The `-layout` option for __pdftotext__ is handy because it allows you to take so
 And here's the [plaintext representation of page 31](https://github.com/dannguyen/clinton-hillary-email-fbi-investigation-docs/blob/master/txt-individual-pages/0031.txt), though I've trimmed some whitespace for brevity. Notice how the markings for exemptions, e.g. `b1`, `b7C`, etc, are positioned on the right-side of their respective text lines, roughly corresponding to how it _looks_ in the scanned page:
 
 
+(Note that you'll have to scroll horizontally using the scrollbar that follows the plaintext, as Github's web view is too narrow to show the plaintext within its HTML container)
+
 ```
 
                                                                                                                                           bl
@@ -60,16 +62,12 @@ r.u*
  (S//QC/NF
                                                                                                                                               bl
                                                                                                                                               b3
-                                                                                                                                              b
-
 
                                                                                                                                           bl
                                                                                                                                           b3
                                                                                                                                           b6
                                                                                                                                           b7C
                                                                                                                                           b7E
-
-
 
 
  mmmm(U) In order for malicious executables to be effective, the targeted host device has to have the correct program/applications

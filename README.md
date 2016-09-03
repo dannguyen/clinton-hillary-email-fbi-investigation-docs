@@ -1,4 +1,4 @@
-# OCR copy of the 2016-2016 FBI Investigation into Hillary Clinton's emails
+# OCR copy of the 2015-2016 FBI Investigation into Hillary Clinton's emails
 
 The FBI did a Friday document dump of [a redacted 58-page summary](http://www.nytimes.com/interactive/2016/09/02/us/politics/document-Hillary-Clinton-FBI-Investigation.html) of its interview and investigation into Secretary Hillary Clinton's email system ([NYT story here](http://www.nytimes.com/2016/09/03/us/politics/hillary-clinton-fbi.html)).
 

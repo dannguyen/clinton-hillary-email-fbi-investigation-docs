@@ -6,11 +6,11 @@ Unlike [the State Department](https://foia.state.gov/Search/Collections.aspx), t
 
 Here's the OCR'ed PDF for your convenience: 
 
-[clinton-hillary-fbi-investigation.pdf](//dannguyen.github.io/clinton-hillary-email-fbi-investigation-docs/clinton-hillary-fbi-investigation.pdf)
+[clinton-hillary-fbi-investigation.pdf](//dannguyen.github.io/clinton-hillary-email-fbi-investigation-docs/part1/clinton-hillary-fbi-investigation.pdf)
 
 And for those of you who like to grep, here's the plaintext output from running [Poppler pdftotext](https://poppler.freedesktop.org/) (with `-layout`) on that PDF: 
 
-[clinton-hillary-fbi-investigation.txt](//dannguyen.github.io/clinton-hillary-email-fbi-investigation-docs/clinton-hillary-fbi-investigation.txt)
+[clinton-hillary-fbi-investigation.txt](//dannguyen.github.io/clinton-hillary-email-fbi-investigation-docs/part1/clinton-hillary-fbi-investigation.txt)
 
 
 # Preview
@@ -19,7 +19,7 @@ The `-layout` option for __pdftotext__ is handy because it allows you to take so
 
 ![Page 31 of the FBI docs](http://i.imgur.com/l0ChqVG.jpg)
 
-And here's the [plaintext representation of page 31](https://github.com/dannguyen/clinton-hillary-email-fbi-investigation-docs/blob/master/txt-individual-pages/0031.txt), though I've trimmed some whitespace for brevity. Notice how the markings for exemptions, e.g. `b1`, `b7C`, etc, are positioned on the right-side of their respective text lines, roughly corresponding to how it _looks_ in the scanned page:
+And here's the [plaintext representation of page 31](https://github.com/dannguyen/clinton-hillary-email-fbi-investigation-docs/blob/master/txt-individual-pages/part1/0031.txt), though I've trimmed some whitespace for brevity. Notice how the markings for exemptions, e.g. `b1`, `b7C`, etc, are positioned on the right-side of their respective text lines, roughly corresponding to how it _looks_ in the scanned page:
 
 
 (Note that you'll have to scroll horizontally using the scrollbar that follows the plaintext, as Github's web view is too narrow to show the plaintext within its HTML container)
@@ -95,7 +95,7 @@ ack 'b[A-Z\d]{2,3} *$' txt-individual-pages/*.txt
 
 # Technical deets
 
-After using ABBYY FineReader to create an [OCR'ed copy of the PDF](clinton-hillary-fbi-investigation.pdf), I ran this shell code to use poppler's __pdftotext__ to convert the entire PDF into [one text file](clinton-hillary-fbi-investigation.txt), and then to convert the individual PDF pages into [individual text files](txt-individual-pages):
+After using ABBYY FineReader to create an [OCR'ed copy of the PDF](clinton-hillary-fbi-investigation.pdf), I ran this shell code to use poppler's __pdftotext__ to convert the entire PDF into [one text file](clinton-hillary-fbi-investigation.txt), and then to convert the individual PDF pages into [individual text files](txt-individual-pages/part1/):
 
 
 ```sh

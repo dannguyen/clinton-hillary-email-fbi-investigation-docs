@@ -1,0 +1,22 @@
+                bl
+                b3
+                b7E
+
+
+
+
+                bl
+                b3
+                b5
+                b6
+                b7C
+                b7E
+
+
+
+
+                bl
+secret   FOR]
+                b3
+                b7E
+

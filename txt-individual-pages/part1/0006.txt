@@ -1,0 +1,63 @@
+                                                                                                                                 bl
+                                         secre:                             rn[
+                                                                                                                                 b3
+                                                                                                                                 b7E
+
+C.        (U/ 'FOUO) Third E-mail Server: June 2013 - October 2015
+
+(U//FOU0) Following the selection of PRN to manage the Clintons' personal e-mail server and
+accounts, PRN's management assigned two PRN employees to handle the primary installation
+and administration of the third server system (PRN Server). 7\                  | who worked                                     b6
+                                                                                                                                 b7C
+remotely from his home in ___________handled day-to-day administration for the PRN Server,
+antj                 |who worked at PRN's headquarters in Colorado, handled all hardware
+installation and any required physical (i.e. “hands-on”) maintenance for the PRN Server.0,73
+During the transition to the PRN Server,             advised he worked with Pagliano to
+understand the existing architecture of the Pagliano Server.74 As part of this transition process,
+on or around June 4, 2013 J               was granted administrator access to the Pagliano Server,as
+well as any accompanying services, such as the domain registration services through Network
+Solutions.75,76,77,78
+                                                                                                                                 b6
+(U//FOUO) On June 23, 2013                 traveled to Clinton's Chappaqua residence, where he
+                                                                                                                                 b7C
+powered down the Pagliano Server and transported it to a datacenter in Secaucus, New Jersey,
+run by Equinix, Inc. (Equinix).79,80,81 The PRN Server remained at the Equinix facility until it
+was voluntarily produced to the FBI on October 3, 20 15.82,83 The only equipment________ left
+at the Chappaqua residence was the existing firewall and switch, since PRN intended to purchase
+its own firewalls and switches.8]             reconnected and powered on the equipment for the
+Pagliano Server at the datacenter, so users could connect to their e-mail accounts,85 and he
+continued to work at the datacenter for a few days setting up the remaining equipment13for the
+PRN Server. 8(T            completed all of the onsite work, while________ worked remotely to
+get the server online. ^A fter            eft Secaucus, New Jersey, to travel back to PRN's
+headquarters, all physical pieces of hardware had been installed except for an intrusion detection
+device             old the FBI that Equinix installed this device shortly after he left because the
+intrusion detection device was shipped later. 88
+
+(U/7FQUO) On or around June 30, 2013, |             |began to remotely migrate all e-mail                                        b6
+                                                                                                                                 b7C
+accounts from the Pagliano Server to the PRN Server.89 During this migration period, the two
+server systems functioned together to ensure uninterrupted e-mail delivery to users.90 After
+several days of migration, all e-mail accounts hosted on the presidentclinton.com, wicoffice.com,
+and clintonemail.com domains were transferred to the PRN Server.q 91 At that point, PRN kept
+the Pagliano Server online to ensure e-mail was still being
+                                                        . delivered;
+                                                               92     however, the Pagliano
+Server was no longer hosting e-mail services for the Clintons.
+
+
+
+
+0 (U//FOUQ) A third PRN employee]                1 only handled a few tasks related to the administration of the server system   b6
+until he left the company in the summer of 2015.                                                                                 b7C
+p (U//F©e©) The PRN Server consisted of the following equipment: a Dell PowerEdge R620 server hosting four virtual
+machines, including four separate virtual machines for Microsoft Exchange e-mail hosting, a BES for the management of
+BlackBeriy devices, a domain controller to authenticate password requests, and an administrative server to manage the other
+three virtual machines, a Datto SIRIS 2000 to store onsite and remote backups of the server system, a CloudJacket device for
+intrusion prevention, two Dell switches, and two Fortinet Fortigate 80C firewalls.
+q (U/£J©B©) Thej                    |domain was also added to the PRN Server at a later date.
+
+                                                         Page 6 of 47
+                                                                                                                                 bl
+                                         secretz /o 5 5 S t^        5   e 5 r n ______                                           b3
+                                                                                                                                 b7E
+

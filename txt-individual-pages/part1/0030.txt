@@ -1,0 +1,62 @@
+                                        -^ P F TiV^ r ynNfNfff ^ iR                                                                   bl
+                                                                                                                                      b3
+                                                                                                                                      b7E
+increase in unauthorized login attempts into the Apple iCloudhhhh account likely associated with
+Clinton's e-mail address1111during this time period. Investigation determined all potentially
+suspicious Apple iCloud login attempts were unsuccessful.538 Additionally, PRN made various
+network changes to the PRN Server around March 7, 2015, to include disabling the server's
+public-facing VPN page and switching from SSL protocol to TLS to increase security.539 Staff
+also discussed the possibility of conducting penetration testing-™ against the PRN Server to
+highlight vulnerabilities in the network.540 The FBI interviewed an employee of the company
+with which PRN had discussed the issue. The employee stated that the topic was broached but
+that penetration testing against the PRN Server, ultimately, did not happen.541
+
+B.        (U//FOUO) Cyber Analysis of Clinton's Mobile Devices
+
+(U/7FOUO) The FBI does not have in its possession any of Clinton's 13 mobile devices which
+potentially were used to send e-mails using Clinton's clintonemail.com e-mail addresses. As a
+result, the FBI could not make a determination as to whether any of the devices were subject to
+compromise. Similarly, the FBI does not have in its possession two of the five iPad devices
+which potentially were used by Clinton to send and receive e-mails during her tenure.542,543’544"
+The FBI forensically examined two of the three iPadskkkk it obtained and found no evidence of
+cyber intrusion.546
+
+C.        (U//FOUO) Cyber Targeting of Clinton's Personal E-mail and Associated Accounts
+
+(S///OC/NF) Investigation identified multiple occurrences of phishing and/or snear-nhi shine e-
+mails sent to Clinton's account during her tenure as Secretary of State.54!                                                           bl
+                                                                                                                                      b3
+                                                                                                                                      b6
+                                                                                                                                      b7C
+
+
+
+
+                                                                                                                                      bl
+(S//OC/NF) Clinton received another phishing e-mail, purportedly sent from the personal e-mail
+                                                                                                                                      b3
+account of a State official!              I The e-mail contained a potentially malicious                                              b6
+link. Clinton replied to the e-mail                   stating, “Is this really from you? I was                                        b7C
+                             553   5
+worried about opening it!
+In a separate incident              Abedin sent an e-mail tc          indicating Clinton was
+
+1,111111(U//FOUO) Apple iCloud is a cloud storage medium available to users of Apple products. Clinton is known to have used
+Apple iPads during the course of her tenure, and hdr22@clintonemail.com was likely used as her ApplelD to set up a new Apple
+device.
+m (U//TOU0) While the NYT article did not reveal Clinton's e-mail address—and by default the domain name—it is very likely
+those who tried to gain access to the related Apple iCloud account searched for and found the e-mail address in open sources.
+News articles from 2013 contained a screenshot of Blumenthal's communication with “hdr22,” thereby divulging Clinton's e-
+mail alias. Other outlets mentioned the domain name in articles but withheld Clinton's e-mail alias. Clinton's full e-mail address
+could therefore have been ascertained through piecing together various sources.
+1111(U) Penetration testing, more commonly known as pentesting, is the practice of testing a computer system, network, or web
+application to find vulnerabilities that an attacker could exploit.
+        (UM'Olf©) The third iPad the FBI obtained was not actually used by Clinton. Shortly after it was purchased, it was given as
+a gift to a member of her staff, and therefore the FBI did not forensically examine the device.
+1111(U) RAT is a piece of software that facilitates remote operation of a computer system.
+
+                                                         Page 30 of 47
+                                                                                                                                      bl
+                                                                                                                                      b3
+                                                                                                                                      b7E
+

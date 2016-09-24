@@ -1,18 +1,0 @@
-         bl
-         b3
-         b7E
-
-
-
-
-        b3
-        b5
-        b7E
-
-
-
-
-         bl
-SECRE    b3
-         b7E
-
